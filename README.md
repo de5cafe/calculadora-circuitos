@@ -24,5 +24,5 @@ Script em C desenvolvido para auxiliar no cálculo de resistência, tensão, pot
     ```
 3. Execute o script:
   ```bash
-    ./calculadora
+   ./calculadora
   ```
