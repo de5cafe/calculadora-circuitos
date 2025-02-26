@@ -57,7 +57,7 @@ int main() {
         printf("----------------------------------------\n[%d]\n\n",step);
     	}
 
-        printf("r1= %lf | r2= %lf \n\n1 - Associação | 2 - Paralelo\n",r1,r2);
+        printf("r1= %lf | r2= %lf \n\nEscolha o método: 1 - Associação | 2 - Paralelo\n",r1,r2);
         scanf("%d", &choice);
         printf("\033[F\033[K"); 
     	printf("\033[F\033[K"); 
