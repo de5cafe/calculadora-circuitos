@@ -15,7 +15,7 @@ Script em C desenvolvido para auxiliar no cálculo de resistência, tensão, pot
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/username/calculadora-circuitos.git
+   git clone https://github.com/de5cafe/calculadora-circuitos.git
    cd calculadora-circuitos
    ```
 2. Compile o código:
